@@ -1,4 +1,5 @@
 body {
   background: -webkit-gradient(linear, left top, left bottom, from(#000066), to(#6600CC)) fixed;
   color: white;
+text-align: center;
 }
