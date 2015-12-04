@@ -7,3 +7,9 @@ text-align: center;
 a {
     color: #33cc33;
 }
+.footer{ 
+   position: fixed;     
+   text-align: center;    
+   bottom: 0px; 
+   width: 100%;
+} 
