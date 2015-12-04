@@ -10,6 +10,6 @@ a {
 .footer{ 
    position: fixed;     
    text-align: center;    
-   bottom: 0px; 
+   bottom: 8px; 
    width: 100%;
 } 
