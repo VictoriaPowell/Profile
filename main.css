@@ -1,0 +1,25 @@
+body {
+  /* background: -webkit-gradient(linear, left top, left bottom, from(#000066), to(#6600CC)) fixed; */
+background: #000066; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#000066, #6600CC) fixed; /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#000066, #6600CC) fixed; /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#000066, #6600CC) fixed; /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#000066, #6600CC) fixed; /* Standard syntax */
+  color: white;
+  text-align: center;
+
+}
+#main {
+background-color: white;
+text-color: black;
+text: arial;
+}
+a {
+    color: #33cc33;
+}
+#footer{ 
+   position: fixed;     
+   text-align: center;    
+   bottom: 8px; 
+   width: 100%;
+} 
